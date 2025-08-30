@@ -106,5 +106,5 @@ Pasta `/images` contém prints de:
 ---
 
 ## 👨‍💻 Autor  
-- **Seu Nome Aqui**  
+- **Nelito Carlos**  
 - Projeto de Laboratório - Máquinas Virtuais no Azure  
